@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+:heart:
+* Favorite Foods
+  * Popcorn
+  * Pizza
+  * Pasta
+* Favorite Colors
+  * Yellow
+  * Blue
+  * Green
